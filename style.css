@@ -1,0 +1,51 @@
+*{
+padding: 0;
+margin: 0;
+font-family: 'Times New Roman', Times, serif;
+background-color: black;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    width: 300%;
+    background-color: gray;
+    height: 50px;
+    align-items: center;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+header{
+    display: flex;
+    text-align: center;
+}
+.name{
+    color: white;
+    align-self: center;
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.a1{
+    padding: 8px;
+    border-radius: 10px;
+}
+.a1 a{
+    color:white;
+    text-decoration:none;
+}
+.b1{
+    color: azure;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 50px;
+}
+.C1{
+    color: azure;
+    text-align: center;
+    font-size: 50PX;
+}
+.d1{
+    color:gray;
+    text-align: center;
+    margin-top: 40px;
+}
